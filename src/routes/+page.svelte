@@ -153,7 +153,7 @@ import { onMount } from 'svelte'
         background-color: #3700b3;
     }
 
-    input[type="checkbox"]
+   
 
 
 

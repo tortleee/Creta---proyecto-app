@@ -1,0 +1,27 @@
+
+<h1>Animales bebé</h1>
+<hr />
+
+<div class="image-container">
+    <img src="capybara.jpg" alt="">
+    <img src="mapache.jpg" alt="">
+    <img src="nutria.jpg" alt="">
+</div>
+
+<style>
+    h1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .image-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .image-container {
+        width: 30%;
+        height: auto;
+    }
